@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://allydotsmarketing.github.io/LawnPal_Demo03/sitemap.xml

@@ -1,0 +1,26 @@
+{
+  "name": "LawnPal",
+  "owner_name": "[Owner name]",
+  "phone_display": "(954) 652-9710",
+  "phone_tel": "+19546529710",
+  "whatsapp": "19546529710",
+  "hours": "Mon–Sat, 8am–5pm",
+  "years": "8+",
+  "primary_cities": "Fort Lauderdale & Tamarac",
+  "areas": [
+    "Fort Lauderdale",
+    "Tamarac",
+    "Coral Springs",
+    "Margate",
+    "Cypress Creek",
+    "Palm Aire"
+  ],
+  "map_embed": "",
+  "base_url": "https://allydotsmarketing.github.io/LawnPal_Demo03/",
+  "noindex": true,
+  "instagram": "",
+  "pinterest": "",
+  "credit_name": "AllyDots Marketing",
+  "credit_url": "https://allydotsmarketing.com",
+  "year": "2026"
+}
